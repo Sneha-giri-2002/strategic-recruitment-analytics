@@ -27,8 +27,7 @@ This project analyzes recruitment data of 1,493 candidates using SQL and Power B
 - Interactive Slicers
 
 ## Dashboard Preview
-
-(Insert dashboard screenshot here)
+Recruitment Analysis.png
 
 ## Business Recommendations
 
